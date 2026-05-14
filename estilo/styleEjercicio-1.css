@@ -1,0 +1,21 @@
+header {
+    text-align: center;
+    background-color: rgb(179, 209, 179);
+}
+
+
+article {
+    display: flex;
+}
+
+.foto {
+    flex: 1;
+    text-align: center;
+    background-color: rgb(179, 209, 179);
+}
+
+.texto {
+    flex: 1;
+    text-align: center;
+    background-color: rgb(179, 209, 179);
+}
